@@ -6,7 +6,7 @@ public class manager : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+	        // ciao a tutti 	
 	}
 	
 	// Update is called once per frame
